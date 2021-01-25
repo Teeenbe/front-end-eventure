@@ -1,4 +1,4 @@
-# Event APP name
+# eVenture
 
 Communiteam presents eVenture - a full-stack, web-based event management application created by School of Code Bootcampers 4.0. This repo is for the front end of the application. For the backend of this application head to this [repository](https://github.com/SchoolOfCode/back-end-eventure).
 
