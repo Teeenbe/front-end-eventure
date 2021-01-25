@@ -1,6 +1,6 @@
 # Event APP name
 
-Communiteam presents App name here is full stack web-based event management application created by School of Code Bootcampers 4.0. This repo consist of the front end of the application. For the backend of this application head to this [reposiory](https://github.com/SchoolOfCode/back-end-final-project-communiteam).
+Communiteam presents eVenture - a full-stack, web-based event management application created by School of Code Bootcampers 4.0. This repo is for the front end of the application. For the backend of this application head to this [repository](https://github.com/SchoolOfCode/back-end-eventure).
 
 <img width="1433" alt="app" src="img here">
 or GIF?
@@ -46,8 +46,6 @@ npm i
 4. For more help on setting up Auth0 with Next.js, https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/
 
 ## Running Locally
-
-sgfsfgs
 
 ```bash
 npm run dev
